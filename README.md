@@ -6,5 +6,6 @@ Created for my Capstone Project class.
 
 ## Features
 * __Journal Entries:__ Users can create as many entries as they wish.
-* __Easy to use interface__
-* __Journal:__ Users can look back at any older entries.
+* __Read Entey:__ Users can choose a specific entry and have it written out.
+* __Edit Entries:__ Users can choose any entry to add or delete content.
+* __View Entries:__ Users can look back at all older entries.
